@@ -1,0 +1,133 @@
+/* src/components/routes/AboutUs/AboutUs.css */
+
+
+.about-container-one{
+    position: relative;
+    margin-top: 10%;
+    height: auto;
+    width:100%;
+    display: flex;
+    flex-direction: row;
+
+}
+
+.about-content-one{
+    margin: auto;
+    font-family: var(--font);
+}
+
+
+.about-heading{
+    font-size: 1.5rem;
+    margin-bottom: 3rem;
+}
+
+.about-subtitle{
+    font-size: 2.4rem;
+    font-weight:700 ;
+    margin: auto;
+    width: 85%;
+    margin-bottom: 5rem;
+
+}
+
+.about-subtitle-2{
+    font-size: 1.4rem;
+    margin: auto;
+    width: 85%;
+    margin-bottom: 2rem;
+
+}
+
+
+/* *********** */
+
+
+.about-container-two{
+    position: relative;
+    width: 100%;
+    margin-top: 10%;
+    height: auto;
+}
+
+.about-container-2-heading{
+    font-size: 1.75rem;
+    font-weight: 700;
+    text-align: left;
+    margin-left: 10%;
+    margin-bottom:1rem;
+}
+
+.introductions{
+    width:80%;
+    display: flex;
+    flex-direction: column;
+    border:0.001px solid ;
+    border-color:rgb(219, 217, 217) ;
+    margin: auto;
+    border-bottom: none;
+    border-right: none;
+    border-left: none;
+}
+
+.intro-card{
+    display: flex;
+    flex-direction: row;
+    margin-top: 3rem;
+}
+
+
+
+.three-people{
+    width:17.5vw;
+    border-radius: 1rem;
+}
+
+.intro-card-right{
+    margin-left: 3rem;
+}
+.names-link{
+    font-size: large;
+    text-align: left;
+    margin-top: 2rem;
+}
+
+.namess{
+    font-weight: 700;
+    margin-top: 3rem;
+}
+
+.designation{
+    color: rgb(31, 53, 249);
+}
+
+.linkedin{
+    margin-left: -50%;
+    margin-top: -10%;
+    vertical-align: 1rem;
+
+}
+
+.three-people-intro{
+    text-align: left;
+    font-size: 1.4rem;
+}
+
+
+
+
+/* ************* */
+
+.about-saying{
+    position: relative;
+    background-color: rgb(228, 228, 228);
+    padding: 2rem;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
+
+.saying{
+    font-size: 1.5rem;
+    font-style: italic;
+
+}

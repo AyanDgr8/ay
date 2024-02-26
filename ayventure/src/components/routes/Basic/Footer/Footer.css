@@ -1,0 +1,88 @@
+/* src/components/routes/Basic/Footer/Footer.css */
+
+
+
+
+.logofooter{
+    height:2rem;
+    width:12rem;
+    display: flex;
+    margin-top: 5rem;
+    margin-bottom: 1rem;
+    margin-left: 6%;
+}
+
+footer {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    position:sticky;
+    margin-top: 5rem;
+    margin-bottom: 4rem;
+}
+
+.page-footer{
+    width: 80%;
+    margin-left: 1.5rem;
+}
+
+.footer-columns{
+    width: 20%;
+    font-size: larger;
+    text-align: left;
+    margin-left: 5%;
+}
+
+
+.footer-heading{
+    font-weight: 700;
+    margin-bottom: 1rem;
+}
+
+.footer-subtitle{
+    color: gray;
+    margin-bottom: 1rem;
+}
+
+.email-phone{
+    text-decoration: none;
+    color: gray;
+}
+
+.last-col{
+    margin-left: 8rem;
+}
+
+.last-subtitle{
+    width:150%;
+    color: gray;
+    margin-bottom: 1rem;
+}
+
+.corporate{
+    margin-top: 2rem;
+}
+
+.footer-column-icons{
+    width:20rem;
+}
+
+.footer-icons{
+    margin-left: 0.4rem;
+}
+
+.lin{
+    margin-left: -0.25rem;
+}
+
+.fb{
+    vertical-align: 0.5rem;
+}
+
+.ig{
+    vertical-align: 0.5rem;
+}
+
+.tt{
+    vertical-align: 0.4rem;
+}

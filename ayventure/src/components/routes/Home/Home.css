@@ -1,0 +1,75 @@
+/* src/components/routes/Home/Home.css */
+
+
+.home-container-one{
+    position: relative;
+    margin-top: 10rem;
+    height: auto;
+    width:100%;
+    display: flex;
+    flex-direction: row;
+
+}
+
+.home-one-left{
+    width:50%;
+}
+
+.home-left-para-1{
+    text-align: left;
+    margin-left: 22.5%;
+    margin-top: 7.5%;
+    font-family: var(--font);
+
+}
+
+.home-left-line-1-1{
+    font-size:3.25rem;
+    font-weight: 700;
+    line-height: 1.2;
+    letter-spacing: -0.045em;
+    margin: 0px;
+}
+
+
+.home-left-line-1-2{
+    font-size:1.7rem;
+    font-weight: 400;
+    line-height: 1.2;
+    letter-spacing: -0.045em;
+    margin-top: 2rem;
+    width:80%;
+}
+
+.start-left{
+    font-size: large;
+    font-weight: 600;
+    width:35%;
+    padding: 1rem;
+    margin-top: 2rem;
+    border-radius: 1rem;
+    border: none;
+    background-color: rgb(16, 129, 232);
+    color: white;
+    
+
+}
+
+.start-left:hover{
+    background-color: rgb(12, 73, 147);
+}
+
+.home-one-right{
+    width:50%;
+
+}
+
+.invest-man{
+    width:75%;
+    height: auto;
+    margin-top: -10vh;
+    margin-left: -5vw;
+}
+
+
+/* ************* */

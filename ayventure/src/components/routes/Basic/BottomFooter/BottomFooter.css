@@ -1,0 +1,53 @@
+/* src/components/routes/Basic/BottomFooter/BottomFooter.css */
+
+
+.bottom-footer-first{
+    border: 0.25px solid;
+    border-left: none;
+    border-right: none;
+    border-color: rgb(202, 198, 198);
+    width:85%;
+    margin: auto;
+    padding: 1rem;
+    text-align: left;
+}
+
+.last-buttons{
+    text-decoration: none;
+    font-size: 1.2rem;
+    margin-left: 1rem;
+    color: gray;
+}
+
+.priv{
+    margin-left: 0;
+}
+
+.last-buttons:hover{
+    
+    color: rgb(16, 129, 232);
+}
+
+.copyrights{
+    margin-left: 30%;
+    font-size: 1.2rem;
+}
+
+.bottom-footer-second{
+    margin: auto;
+    margin-top: 2rem;
+    margin-bottom: 5rem;
+    text-align: left;
+    width: 85%;
+
+}
+
+.bottom-footer-second-disclaimer{
+    font-size: 1.1rem;
+    font-weight: 700;
+    margin-bottom: 2rem;
+}
+
+.bottom-footer-second-para{
+    color: gray;
+}
